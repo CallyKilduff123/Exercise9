@@ -1,4 +1,3 @@
-# ans is 1.2
 # import math function
 from math import pi, tan, cos
 
