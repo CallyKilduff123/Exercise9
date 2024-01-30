@@ -13,6 +13,10 @@ print("b) Number of characters in var:", len(var))
 
 # c) Does it contain numeric characters? (try the isdecimal() method).
 # by using isdecimal(), I can check if var contains any decimal
-# maybe we can use is.numeric() too?
+
 print("c) Does it contain numeric characters?", var.isdecimal())
 
+# .isnumeric() can also be used to achieve the same result
+# Allows a broader range of numeric characters
+# Including decimal digits, superscripts, subscripts, and other numeric symbols
+# print("c) Does it contain numeric characters?", var.isnumeric())
