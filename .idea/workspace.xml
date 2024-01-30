@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70ebf676-13ce-4ac5-ba8c-905f1474f4d6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise9_local/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise9_local/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise9_local/projectile.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise9_local/projectile.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Exercise9_local/types_practice.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Exercise9_local/types_practice.py" afterDir="false" />
@@ -22,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Exercise9_local" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,17 +36,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.operations.executor": "Run",
-    "Python.projectile.executor": "Run",
-    "Python.types_practice.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/kilduffc/Documents/Get_into_Tech/Python Projects/Exercise9"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.operations.executor&quot;: &quot;Run&quot;,
+    &quot;Python.projectile.executor&quot;: &quot;Run&quot;,
+    &quot;Python.types_practice.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/kilduffc/Documents/Get_into_Tech/Python Projects/Exercise9&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
